@@ -10,7 +10,10 @@ ncores: 8
 # Parameters for the pipeline
 
 #scVelo
-resolution: 0.05
+subset_key: treatment
+subset_val: 
+  - E115
+  - E185
 plot_format: .png #Plot formats can be .pdf, .png, .svg
 
 # Folder where results should be saved. Need not exist

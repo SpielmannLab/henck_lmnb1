@@ -5,7 +5,7 @@ The scripts here have been used for the following analysis:
 
         Rscript sc_velo_analysis/bin/cell_comp_analysis_xxx.R
 
-2. scVelo analysis. In the current implementation, since Jana did not use the RDS object from count_to_seurat pipeline that contained spliced and unpsliced counts, the script <sc_velo_analysis/add_spliced_count_to_rds_for_velocity.R> has to be run to manaually add this info. After this, run the custom <sc_velo.nf> script to make the scVelo-based RNA velocity plots. Do this in the cluster:
+2. scVelo analysis. In the current implementation, since Jana did not use the RDS object from count_to_seurat pipeline that contained spliced and unpsliced counts, the script <sc_velo_analysis/add_spliced_count_to_rds_for_velocity.R> has to be run to manaually add this info. After this, run the custom <sc_velo.nf> script to make the scVelo-based RNA velocity plots. Do this in the cluster (Note, the internal script was changed on 19th September and the nextflow automation may not work - needs fixing.):
 
         srun -p shortterm -c 2 --mem 100GB debug --pty bash
         conda activate scVelocity

@@ -26,5 +26,3 @@ The scripts here have been used for the following analysis:
     conda activate henck_lmnb1
     R
     install.packages("countdata")
-
-# Running the cell composition analysis

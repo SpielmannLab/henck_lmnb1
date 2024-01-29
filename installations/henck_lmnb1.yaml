@@ -1,0 +1,19 @@
+---
+name: henck_lmnb1
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - r-dplyr
+  - r-vgam
+  # - r-monocle3
+  - r-rcolorbrewer
+  - r-ggplot2
+  - r-scales
+  - r-corrplot
+  - r-pheatmap
+  - r-tidyr
+  - r-openxlsx
+  - r-forcats

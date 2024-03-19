@@ -1,0 +1,117 @@
+E115:
+  - file: cell_abundance_analysis_E115/cluster_0/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 0
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E115/cluster_0/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 0
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E115/cluster_1/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 1
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E115/cluster_1/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 1
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E115/cluster_2/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 2
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E115/cluster_2/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 2
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E115/cluster_3/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 3
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E115/cluster_3/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 3
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E115/cluster_4/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 4
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E115/cluster_4/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 4
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E115/cluster_5/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 5
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E115/cluster_5/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 5
+    comparison: WT_vs_Dup
+  # - file: cell_abundance_analysis_E115/cluster_7/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+  #   cluster: 7
+  #   comparison: WT_vs_Del
+  # - file: cell_abundance_analysis_E115/cluster_7/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+  #   cluster: 7
+  #   comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E115/cluster_8/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 8
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E115/cluster_8/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 8
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E115/cluster_9/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 9
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E115/cluster_9/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 9
+    comparison: WT_vs_Dup
+
+E185:
+  - file: cell_abundance_analysis_E185/cluster_0/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 0
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_0/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 0
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_1/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 1
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_1/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 1
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_2/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 2
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_2/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 2
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_3/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 3
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_3/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 3
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_4/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 4
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_4/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 4
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_5/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 5
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_5/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 5
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_6/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 6
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_6/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 6
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_7/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 7
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_7/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 7
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_8/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 8
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_8/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 8
+    comparison: WT_vs_Dup
+  - file: cell_abundance_analysis_E185/cluster_9/lochness/WT_vs_Del_lochNESS_scores_with_umap_coords.tsv
+    cluster: 9
+    comparison: WT_vs_Del
+  - file: cell_abundance_analysis_E185/cluster_9/lochness/WT_vs_Dup_lochNESS_scores_with_umap_coords.tsv
+    cluster: 9
+    comparison: WT_vs_Dup
